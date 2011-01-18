@@ -1,0 +1,10 @@
+This repository is for a project to build a standalone device to play a Pandora internet radio stream, based on a cheap wireless router, OpenWRT, pianobar, and Arduino.
+
+For more information:
+
+http://www.blackbrass.org/wiki/index.php?title=Standalone_Pandora_Player
+
+Blog posts:
+http://www.blackbrass.org/blog/2011/01/building-a-standalone-pandora-player/
+http://www.blackbrass.org/blog/2011/01/testing-openwrt-on-a-slug/
+

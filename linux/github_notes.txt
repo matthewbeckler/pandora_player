@@ -1,0 +1,17 @@
+The fork of pianobar is under matthewbeckler/pianobar. Install git, and then do this to get started:
+
+git clone git@github.com:matthewbeckler/pianobar.git
+
+Then do this to connect it to the upstream repository:
+
+cd pianobar
+git remote add upstream git://github.com/PromyLOPh/pianobar.git
+git fetch upstream
+
+To push changes back to your fork on github:
+git push origin master
+
+(Now you can send a pull request to upstream via the website.)
+
+To re-sync with upstream:
+git fetch upstream
